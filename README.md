@@ -10,6 +10,12 @@
 pip install flask
 ```
 
+3. **Install MySQL Connector for Python:**
+
+```bash
+pip install mysql-connector-python
+```
+
 ---
 
 ## 🗄️ Database Interaction
@@ -51,4 +57,3 @@ SELECT * FROM users WHERE id = 1;
 ```
 
 ---
-
